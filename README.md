@@ -36,7 +36,15 @@ This project generates all possible case variations of the `<script>` and `</scr
 
 ## License
 
-This mentions that the project is licensed under the **Apache License 2.0** and directs users to the `LICENSE`[LICENSE.md] file for more details. 
+This project is licensed under the **[Apache License 2.0](https://opensource.org/licenses/Apache-2.0)**. For more information, check out the  **[`LICENSE`](https://github.com/MrJi421/rust-payload-case-variations/blob/main/LICENSE)** file in the repository.
 
-## Open for Collaboratins
-@MrJi421
+## Contributing
+
+We welcome contributions from the community! If you're interested in helping improve the project, feel free to fork the repository and submit a pull request.
+
+- Report issues or request features on the [Issues Page](https://github.com/MrJi421/rust-payload-case-variations/issues).
+- Check out open issues or participate in discussions.
+
+## Open for Collaborations
+
+If you’d like to collaborate, feel free to reach out via [GitHub Issues](https://github.com/MrJi421/rust-payload-case-variations/issues) or directly via [`@MrJi421`](https://github.com/MrJi421).
