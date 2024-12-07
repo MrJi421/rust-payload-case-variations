@@ -20,13 +20,19 @@ This project generates all possible case variations of the `<script>` and `</scr
    ```
 
 2. Navigate into the project directory:
+    ```bash
     cd rust-payload-case-variations
+    ```
 
 3. Build the project:
+    ```bash
     cargo build
+    ```
 
 4. Run the project:
+    ```bash
     cargo run
+    ```
 
 ## License
 
