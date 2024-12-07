@@ -36,7 +36,7 @@ This project generates all possible case variations of the `<script>` and `</scr
 
 ## License
 
-This mentions that the project is licensed under the **Apache License 2.0** and directs users to the `LICENSE` file for more details. 
+This mentions that the project is licensed under the **Apache License 2.0** and directs users to the `LICENSE`[LICENSE.md] file for more details. 
 
 ## Open for Collaboratins
 @MrJi421
